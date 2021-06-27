@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeGlitcheurDu78
+- 👀 I’m interested in the kotlin and swift 
+- 🌱 I’m currently learning kotlin 
+- 📫 Vous pouvez me joindre à cette adresse Le_Glitcheur@hotmail.com 
